@@ -1,3 +1,52 @@
 body {
-	background-color: blueviolet;
+	background-color: rgb(167, 68, 214);
+
 }
+
+h1 {
+	font-family: "Arial Rounded MT Bold";
+	text-align: center;
+	color: rgb(237, 190, 41);
+}
+
+p {
+	font-family: "Arial Hebrew Scholar";
+	background-color: rgba(220, 199, 194, 0.36);
+	color: antiquewhite;
+}
+
+img {
+	border: 3px double rgb(237, 190, 41);
+	height: 30%;
+	width: 30%;
+}
+
+.rightSide {
+	text-align: right;
+}
+
+.secondParagraph {
+
+	background-color: rgba(220, 199, 194, 0.36);
+	color: rgb(116, 54, 157);
+}
+
+.blueLetters {
+	color: blue;
+}
+
+.pictureofLily {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.greenWords {
+	color: rgb(100, 200, 50);
+}
+
+
